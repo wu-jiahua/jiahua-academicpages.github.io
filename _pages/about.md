@@ -22,4 +22,4 @@ redirect_from:
     * 2003 -- 2007, B.Eng., Electronics information engineering
 
 ## Research Interests
-Sharing economy, revenue management and pricing, and supply chain management
+Sharing economy, revenue management and pricing, supply chain management
