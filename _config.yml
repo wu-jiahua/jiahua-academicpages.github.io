@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Jiahua Wu"
+locale                   : "en-UK"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiahua Wu"
 description              : &description "personal description"
 url                      : https://wu-jiahua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   bio              : "\n"
   location         : "London, UK"
   employer         : "Imperial College London"
-  uri              : "https://profiles.imperial.ac.uk/j.wu"
+  uri              : # ">https://profiles.imperial.ac.uk/j.wu"
   email            : "j.wu@imperial.ac.uk" 
 
   # Academic websites
