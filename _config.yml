@@ -27,7 +27,7 @@ author:
   bio              : "Associate Professor of Operations"
   location         : "London, UK"
   employer         : "Imperial College London"
-  uri              : ">https://profiles.imperial.ac.uk/j.wu"
+  uri              : # ">https://profiles.imperial.ac.uk/j.wu"
   email            : "j.wu@imperial.ac.uk" 
 
   # Academic websites
