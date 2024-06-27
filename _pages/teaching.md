@@ -14,11 +14,6 @@ redirect_from:
 
   * **Logistics and supply chain analytics**, MSc Business Analytics
     * Supply chains are networks of organisations that supply and transform materials, and distribute final products to customers. Supply chain management represents a great challenge as well as tremendous opportunity for most firms. If designed and managed properly, supply chains are a crucial source of competitive advantage for both manufacturing and service enterprises. This module focuses on models and analytic tools, which are useful in the design and operations of logistics and supply chains. Strong emphasis is placed on how specific tools can be used to improve the performance and/or reduce the total cost of a supply chain. 
-    * A video introduction of the module can be found [here](/files/LSCA.mp4).
 
   * **Statistics and econometrics**, MSc Business Analytics
-    * This module covers the statistical tools needed to analyse data in economics and management. It focuses on parameter estimation and hypothesis testing within the framework of the classical linear regression model. Advanced topics including panel data methods and binary dependent variable models will also be discussed. 
-    * A video introduction of the module can be found [here](/files/SE.mp4).
-    <!-- * 2021, Topics in operations management and analytics (PhD) -->
-    <!-- * 2015 -- 2019, Project management -->
-    <!-- * 2015, Management science and operations -->
+    * This module covers the statistical tools needed to analyse data in economics and management. It focuses on parameter estimation and hypothesis testing within the framework of the classical linear regression model. Advanced topics including panel data methods and binary dependent variable models will also be discussed.
