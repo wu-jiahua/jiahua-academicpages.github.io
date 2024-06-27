@@ -26,7 +26,7 @@ You can also find my articles on [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsB
 
 ## Selected Working Papers
 * [Information Design and Pricing of Supply Competition in Lead-Selling Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681) with Y. Sun, N. Zamani Foroushani and Z. Liu
-    * Preliminary version accepted in **EC '24**
+    * Preliminary version accepted in EC 2024
 
 * [IT and operations miscoordination in a supply chain: Case of a quick-service restaurant chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4666841) with P. Luo and M. Hu
 
@@ -35,4 +35,4 @@ You can also find my articles on [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsB
 ## Books and Conference Publications
 * [Online group buying and crowdfunding: Two cases of all-or-nothing mechanisms](https://link.springer.com/chapter/10.1007/978-3-030-01863-4_14) with M. Hu and M. Shi, 2019, **Sharing Economy: Making Supply Meet Demand**, M. Hu (ed.), 319--346, in *Springer Series in Supply Chain Management*, C. Tang (series ed.)
 
-* [Keep cache replacement simple in peer-assisted VoD systems](https://ieeexplore.ieee.org/document/5062193) with B. Li, in the Proceedings of IEEE **INFOCOM** 2009
+* [Keep cache replacement simple in peer-assisted VoD systems](https://ieeexplore.ieee.org/document/5062193) with B. Li, in the Proceedings of IEEE INFOCOM 2009
