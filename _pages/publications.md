@@ -26,7 +26,7 @@ You can also find my articles on [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsB
 
 ## Selected Working Papers
 * [Information Design and Pricing of Supply Competition in Lead-Selling Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681) with Y. Sun, N. Zamani Foroushani and Z. Liu
-    * Preliminary version accepted in the Proceedings of the ACM Conference on Economics and Computation (**EC**) 2024
+    * Preliminary version accepted in **EC '24**
 
 * [IT and operations miscoordination in a supply chain: Case of a quick-service restaurant chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4666841) with P. Luo and M. Hu
 
